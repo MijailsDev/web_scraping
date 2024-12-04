@@ -1,0 +1,19 @@
+Que es Web Scraping?
+
+    Automatizacion de informacion de un sitio web
+
+Beneficios de Web Scraping
+
+    - No se necesita consumir una API
+    - Podemos acceder a gran cantidad de informacion
+    - Estar al tanto de cambios de una web
+    - Transformar miles de paginas web en datos proceSABLES
+
+Casos de uso de Web Scraping
+
+    - Motores de busqueda
+    - Monitorizacion de precios de tiempo real
+    - Trading 
+    - Extraccion de informacion de Google Maps
+
+    
